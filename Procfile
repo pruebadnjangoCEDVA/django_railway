@@ -1,0 +1,1 @@
+web: gunicorn CEDVA.wsgi --log-file -
